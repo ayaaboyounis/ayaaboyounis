@@ -1,6 +1,6 @@
 - 👋 Hi, I’m aya aboyounis
-- 👀 I’m interested in discovering new things, playing oud,kickboxing and traveling
-- 🌱 I’m currently learning B.Sc computer science
+- 👀 I’m interested in discovering new things
+- 🌱 B.Sc computer science student in my final semester
 
 <strong>Connect with me:</strong> <br> <div id="badges">
   <a href="https://www.linkedin.com/in/aya-aboyounis-softwareengineertobe">
