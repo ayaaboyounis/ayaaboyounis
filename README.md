@@ -3,7 +3,7 @@
 - 🌱 B.Sc computer science student in my final semester
 
 <strong>Connect with me:</strong> <br> <div id="badges">
-  <a href="https://www.linkedin.com/in/aya-aboyounis-softwareengineertobe">
+  <a href="https://www.linkedin.com/in/aya-aboyounis/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
